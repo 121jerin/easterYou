@@ -15,7 +15,7 @@ class NewsDetailsVCID: UIViewController {
 
         // Do any additional setup after loading the view.
     }
-
+//to branch by git  testttt
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
